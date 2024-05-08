@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# env
+.envrc
+
+# clangd
+.cache/
+.clangd
+
+# build
+out/
+.vs/
